@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-*/bot-docker/config.py
+bot-docker/config.py
 # C extensions
 *.so
 
