@@ -7,7 +7,7 @@ services:
     networks:
       botfast:
         ipv4_address: 172.19.0.44
-  fast:
+  cgp:
     build: cgp
     ports:
       - 80:80
